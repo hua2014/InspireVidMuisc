@@ -1,0 +1,6 @@
+[submodule "InspireMusic"]
+	path = InspireMusic
+	url = https://github.com/hua2014/FunMusic.git
+[submodule "VidMuse-main"]
+	path = VidMuse-main
+	url = https://github.com/hua2014/VidMuse.git
