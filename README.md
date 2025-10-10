@@ -470,7 +470,7 @@ train_conf:
 测试原InspireMusic的`run.sh`：
 
 - stage0：准备数据集
-- stage1：acoustiv_token，这个特征对组织数据不可获取，虽然实际不会用到
+- stage1：acoustiv_token，这个特征对组织数据不可或缺，虽然实际不会用到
 - stage2：semantic_token
 - stage3：make_parquet
 - stage5：llm train
